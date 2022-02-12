@@ -1,0 +1,25 @@
+﻿
+2022-02-12 17:04:46.7234 INFO Entered mail is valid
+2022-02-12 17:05:33.1687 INFO Entered mail is validabc@yahoo.com
+2022-02-12 17:06:41.8441 ERROR Entered mail not valid
+2022-02-12 17:06:54.7884 ERROR Entered mail not valid
+2022-02-12 17:07:08.7436 ERROR Entered mail not valid
+2022-02-12 17:07:22.6316 ERROR Entered mail not valid
+2022-02-12 17:07:40.6616 ERROR Entered mail not valid
+2022-02-12 17:08:12.2559 ERROR Entered mail not valid
+2022-02-12 17:08:31.6508 ERROR Entered mail not valid
+2022-02-12 17:08:48.0967 ERROR Entered mail not valid
+2022-02-12 17:09:03.8519 ERROR Entered mail not valid
+2022-02-12 17:09:20.7148 ERROR Entered mail not valid
+2022-02-12 17:09:35.7818 ERROR Entered mail not valid
+2022-02-12 17:09:53.8918 ERROR Entered mail not valid
+2022-02-12 17:10:10.1488 ERROR Entered mail not valid
+2022-02-12 17:10:21.7567 INFO Entered mail is valid  abc@yahoo.com
+2022-02-12 17:10:38.1625 INFO Entered mail is valid  abc-100@yahoo.com
+2022-02-12 17:10:50.7478 INFO Entered mail is valid  abc.100@yahoo.com
+2022-02-12 17:11:05.5418 INFO Entered mail is valid  abc111@abc.com
+2022-02-12 17:11:31.8183 INFO Entered mail is valid  abc-100@abc.net
+2022-02-12 17:11:51.0987 INFO Entered mail is valid  abc.100@abc.com.au
+2022-02-12 17:12:06.4361 INFO Entered mail is valid  abc@1.com
+2022-02-12 17:12:21.5475 INFO Entered mail is valid  abc@gmail.com.com
+2022-02-12 17:12:33.6594 INFO Entered mail is valid  abc+100@gmail.com
